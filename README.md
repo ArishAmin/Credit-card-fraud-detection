@@ -1,3 +1,6 @@
+# You can visit the app here
+https://glowing-space-telegram-rwp969xjj6vfpvvp-8000.app.github.dev/
+
 # Credit Card Fraud Detection
 
 This project is a Django web application that implements a machine learning model to detect credit card fraud. The application allows users to input transaction details and receive a prediction on whether the transaction is likely fraudulent or not.
