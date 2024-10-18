@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-This project is a Django web application that implements a machine learning model to detect credit card fraud. The application allows users to input transaction details and receive a prediction on whether the transaction is likely fraudulent or not.
+This project is a Django web application that implements a machine-learning model to detect credit card fraud. The application allows users to input transaction details and receive a prediction on whether the transaction is likely fraudulent.
 
 ## Features
 - User-friendly interface for transaction input.
